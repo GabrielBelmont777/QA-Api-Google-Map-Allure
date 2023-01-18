@@ -1,4 +1,4 @@
 pytest~=7.2.0
 selenium~=4.7.2
-allure-pytest~=42.9.452.20.1
+allure-pytest~=2.20.1
 
